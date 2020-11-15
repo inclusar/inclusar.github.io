@@ -1,8 +1,8 @@
-# inclusar.com
-
-## About me
+# inclusar
 
 ![inclusar](/logo.svg)
+
+**About me**
 
 My name is Artsiom Shemiatavets aka inclusar.
 
